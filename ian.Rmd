@@ -1,0 +1,12 @@
+---
+title: "Ian"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* I enjoy the outdoors
+* I have a dog named Xochi (so-chee)
+* I am eating leftover ravioli for lunch
