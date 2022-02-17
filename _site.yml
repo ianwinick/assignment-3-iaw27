@@ -9,7 +9,7 @@ navbar:
       href: kelly.html
 output:
   html_document:
-    theme: darkly
+    theme: cosmo
     highlight: textmate
     toc: true 
     toc_float: true 
