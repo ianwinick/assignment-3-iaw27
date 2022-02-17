@@ -13,4 +13,4 @@ Ian Winick
 Collaborator: Kelly Baxendell  
 [Kelly's Github Account](https://github.com/kelly-baxendell)
 
-![Polemonium eximium](C:/Users/Ian/Desktop/skypilot.jpg)
+![Polemonium eximium](C:/Users/Ian/github/assignment-3-iaw27/skypilot.jpg)
