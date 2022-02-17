@@ -10,6 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Ian Winick  
 [Ian's GitHub Account](https://github.com/ianwinick)
 
-Collaborator: Kelly Baxendell
+Collaborator: Kelly Baxendell  
+[Kelly's Github Account](https://github.com/kelly-baxendell)
 
-![Polemonium eximium](C:\Users\Ian\Desktop\skypilot.jpg)
+![Polemonium eximium](C:/Users/Ian/Desktop/skypilot.jpg)
