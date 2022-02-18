@@ -1,5 +1,5 @@
 ---
-title: "Assignment 3 Website Dot Com Very Cool"
+title: "Assignment 3 Website Dot Com"
 output: html_document
 ---
 
