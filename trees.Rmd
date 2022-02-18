@@ -1,0 +1,23 @@
+---
+title: "Trees of Ithaca"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Here are a few trees that are native to Ithaca
+
+* Tsuga canadensis
+* Pinus strobus
+* Acer saccharum
+* Acer rubrum
+* Acer negundo
+* Nyssa sylvatica
+* Quercus alba
+* Quercus velutina
+* Quercus montana
+* Quercus coccinea
+* Quercus bicolor
+* Liriodendron tulipifera

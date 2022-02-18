@@ -7,6 +7,8 @@ navbar:
       href: ian.html
     - text: "Kelly"
       href: kelly.html
+    - text: "Trees"
+      href: trees.html
 output:
   html_document:
     theme: cosmo
