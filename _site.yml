@@ -7,7 +7,7 @@ navbar:
       href: ian.html
     - text: "Kelly"
       href: kelly.html
-    - text: "Trees"
+    - text: "Plants"
       href: trees.html
 output:
   html_document:
@@ -15,4 +15,4 @@ output:
     highlight: textmate
     toc: true 
     toc_float: true 
-    toc_depth: 3
+    toc_depth: 4

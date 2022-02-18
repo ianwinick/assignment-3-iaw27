@@ -11,7 +11,7 @@
 
 
 
-<title>Trees of Ithaca</title>
+<title>Plants of Ithaca</title>
 
 <script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -327,7 +327,7 @@ div.tocify {
   <a href="kelly.html">Kelly</a>
 </li>
 <li>
-  <a href="trees.html">Trees</a>
+  <a href="trees.html">Plants</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -341,13 +341,15 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Trees of Ithaca</h1>
+<h1 class="title toc-ignore">Plants of Ithaca</h1>
 
 </div>
 
 
-<div id="here-are-a-few-trees-that-are-native-to-ithaca" class="section level1">
-<h1>Here are a few trees that are native to Ithaca</h1>
+<div id="here-are-a-few-plants-that-are-native-to-ithaca" class="section level1 tabset">
+<h1 class="tabset">Here are a few plants that are native to Ithaca</h1>
+<div id="trees" class="section level2">
+<h2>Trees</h2>
 <ul>
 <li>Tsuga canadensis</li>
 <li>Pinus strobus</li>
@@ -362,6 +364,28 @@ div.tocify {
 <li>Quercus bicolor</li>
 <li>Liriodendron tulipifera</li>
 </ul>
+</div>
+<div id="spring-ephemerals" class="section level2">
+<h2>Spring ephemerals</h2>
+<ul>
+<li>Trillium grandiflorum</li>
+<li>Trillium erectum</li>
+<li>Cardamine diphylla</li>
+<li>Dicentra canadensis</li>
+<li>Dicentra cucullaria</li>
+<li>Hepatica nobilis var. acuta</li>
+<li>Hepatica nobilis var. obtusa</li>
+<li>Claytonia caroliniana</li>
+</ul>
+</div>
+<div id="carnivorous-plants" class="section level2">
+<h2>Carnivorous plants</h2>
+<ul>
+<li>Drosera rotundifolia</li>
+<li>Sarracenia purpurea</li>
+<li>Pinguicula vulgaris</li>
+</ul>
+</div>
 </div>
 
 
@@ -413,7 +437,7 @@ $(document).ready(function ()  {
 
     // establish options
     var options = {
-      selectors: "h1,h2,h3",
+      selectors: "h1,h2,h3,h4",
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {

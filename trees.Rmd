@@ -1,5 +1,5 @@
 ---
-title: "Trees of Ithaca"
+title: "Plants of Ithaca"
 output: html_document
 ---
 
@@ -7,7 +7,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Here are a few trees that are native to Ithaca
+# Here are a few plants that are native to Ithaca {.tabset}
+
+## Trees
 
 * Tsuga canadensis
 * Pinus strobus
@@ -21,3 +23,20 @@ knitr::opts_chunk$set(echo = TRUE)
 * Quercus coccinea
 * Quercus bicolor
 * Liriodendron tulipifera
+
+## Spring ephemerals
+
+* Trillium grandiflorum
+* Trillium erectum
+* Cardamine diphylla
+* Dicentra canadensis
+* Dicentra cucullaria
+* Hepatica nobilis var. acuta
+* Hepatica nobilis var. obtusa
+* Claytonia caroliniana
+
+## Carnivorous plants
+
+* Drosera rotundifolia
+* Sarracenia purpurea
+* Pinguicula vulgaris
